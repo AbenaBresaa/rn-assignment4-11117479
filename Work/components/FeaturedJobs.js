@@ -7,8 +7,8 @@ export const featuredJobs = [
     salary: '$180,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#3944BC',
         shadowColor: '#000',
@@ -49,8 +49,8 @@ export const featuredJobs = [
     salary: '$160,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#FFFADA',
         shadowColor: '#000',
@@ -76,11 +76,11 @@ export const featuredJobs = [
       },
       locationStyle: {
         fontSize: 14,
-        color: '#777',
+        color: '#050301',
       },
       salaryStyle: {
-        fontSize: 14,
-        color: '#00A699',
+        fontSize: 15,
+        color: '#050301',
       },
     }
   },
@@ -91,8 +91,8 @@ export const featuredJobs = [
     salary: '$500,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#FDF6E4',
         shadowColor: '#000',
@@ -118,11 +118,11 @@ export const featuredJobs = [
       },
       locationStyle: {
         fontSize: 14,
-        color: '#777',
+        color: '#050301',
       },
       salaryStyle: {
-        fontSize: 14,
-        color: '#00A699',
+        fontSize: 15,
+        color: '#050301',
       },
     }
   },
@@ -133,8 +133,8 @@ export const featuredJobs = [
         salary: '$500,000/y',
         style: {
           containerStyle: {
-            width: 300,
-            height: 155,
+            width: 350,
+            height: 170,
             borderRadius: 10,
             backgroundColor: '#333333',
             shadowColor: '#000',
@@ -160,11 +160,11 @@ export const featuredJobs = [
           },
           locationStyle: {
             fontSize: 14,
-            color: '#777',
+            color: '#F9E076',
           },
           salaryStyle: {
-            fontSize: 14,
-            color: '#00A699',
+            fontSize: 15,
+            color: '#F9E076',
           },
     }
   },
@@ -175,8 +175,8 @@ export const featuredJobs = [
     salary: '$1,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#FFFAFA',
         shadowColor: '#000',
@@ -202,11 +202,11 @@ export const featuredJobs = [
       },
       locationStyle: {
         fontSize: 14,
-        color: '#777',
+        color: '#050301',
       },
       salaryStyle: {
-        fontSize: 14,
-        color: '#00A699',
+        fontSize: 15,
+        color: '#050301',
       },
     }
   },
@@ -217,8 +217,8 @@ export const featuredJobs = [
     salary: '$150,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#FFF0F6',
         shadowColor: '#000',
@@ -244,11 +244,11 @@ export const featuredJobs = [
       },
       locationStyle: {
         fontSize: 14,
-        color: '#777',
+        color: '#050301',
       },
       salaryStyle: {
-        fontSize: 14,
-        color: '#00A699',
+        fontSize: 15,
+        color: '#050301',
       },
     }
   },
@@ -259,8 +259,8 @@ export const featuredJobs = [
     salary: '$75,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#FFF5EE',
         shadowColor: '#000',
@@ -286,11 +286,11 @@ export const featuredJobs = [
       },
       locationStyle: {
         fontSize: 14,
-        color: '#777',
+        color: '#050301',
       },
       salaryStyle: {
-        fontSize: 14,
-        color: '#00A699',
+        fontSize: 15,
+        color: '#050301',
       },
     }
   },
@@ -301,8 +301,8 @@ export const featuredJobs = [
     salary: '$90,000/y',
     style: {
       containerStyle: {
-        width: 300,
-        height: 155,
+        width: 350,
+        height: 170,
         borderRadius: 10,
         backgroundColor: '#FCFBFC',
         shadowColor: '#000',
@@ -328,11 +328,11 @@ export const featuredJobs = [
       },
       locationStyle: {
         fontSize: 14,
-        color: '#777',
+        color: '#050301',
       },
       salaryStyle: {
-        fontSize: 14,
-        color: '#00A699',
+        fontSize: 15,
+        color: '#050301',
       },
     }
   },

@@ -8,8 +8,8 @@ export const popularJobs = [
     salary: '$96,000/y',
     style: {
       containerStyle: {
-        width: 800,
-        height: 120,
+        width: '100%',
+        height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
         shadowColor: '#000',
@@ -17,7 +17,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 10,
+        marginRight: 0,
+        marginBottom: 10,
       },
       logoStyle: {
         width: 40,
@@ -50,8 +51,8 @@ export const popularJobs = [
     salary: '$84,000/y',
     style: {
       containerStyle: {
-        width: 800,
-        height: 120,
+        width: '100%',
+        height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
         shadowColor: '#000',
@@ -59,7 +60,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 10,
+        marginRight: 0,
+        marginBottom: 10,
       },
       logoStyle: {
         width: 40,
@@ -92,8 +94,8 @@ export const popularJobs = [
     salary: '$60,000/y',
     style: {
       containerStyle: {
-        width: 800,
-        height: 120,
+        width: '100%',
+        height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
         shadowColor: '#000',
@@ -101,7 +103,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 10,
+        marginRight: 0,
+        marginBottom: 10,
       },
       logoStyle: {
         width: 40,
@@ -134,8 +137,8 @@ export const popularJobs = [
     salary: '$85,000/y',
     style: {
       containerStyle: {
-        width: 800,
-        height: 120,
+        width: '100%',
+        height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
         shadowColor: '#000',
@@ -143,7 +146,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 10,
+        marginRight: 0,
+        marginBottom: 10,
       },
       logoStyle: {
         width: 40,
@@ -176,8 +180,8 @@ export const popularJobs = [
     salary: '$55,000/y',
     style: {
       containerStyle: {
-        width: 800,
-        height: 120,
+        width: '100%',
+        height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
         shadowColor: '#000',
@@ -185,7 +189,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 10,
+        marginRight: 0,
+        marginBottom: 10,
       },
       logoStyle: {
         width: 40,
@@ -218,8 +223,8 @@ export const popularJobs = [
     salary: '$1,000/y',
     style: {
       containerStyle: {
-        width: 800,
-        height: 120,
+        width: '100%',
+        height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
         shadowColor: '#000',
@@ -227,7 +232,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 10,
+        marginRight: 0,
+        marginBottom: 10,
       },
       logoStyle: {
         width: 50,
@@ -259,18 +265,19 @@ export const popularJobs = [
     location: 'San Diego, CA', 
     salary: '$100,000/y',
     style: {
-      containerStyle: {
-        width: 800,
-        height: 120,
-        borderRadius: 10,
-        backgroundColor: '#F5F5DC',
-        shadowColor: '#000',
-        shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.1,
-        shadowRadius: 8,
-        elevation: 3,
-        marginRight: 10,
-      },
+        containerStyle: {
+          width: '100%',
+          height: 140,
+          borderRadius: 10,
+          backgroundColor: '#F5F5DC',
+          shadowColor: '#000',
+          shadowOffset: { width: 0, height: 2 },
+          shadowOpacity: 0.1,
+          shadowRadius: 8,
+          elevation: 3,
+          marginRight: 0,
+          marginBottom: 10,
+        },
       logoStyle: {
         width: 40,
         height: 40,
