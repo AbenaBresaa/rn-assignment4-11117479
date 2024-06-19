@@ -11,7 +11,6 @@ const Home = ({ route }) => {
   const Lady = require('./assets/lady.jpeg');
 
   
-
   return (
     <ScrollView style={styles.container}>
       <View style={styles.topLeftContainer}>
@@ -112,7 +111,7 @@ const styles = StyleSheet.create({
     marginRight: 10,
   },
   popularJobCard: {
-    width: '100%',
+    width: '90%',
     marginBottom: 10,
   },
 });

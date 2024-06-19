@@ -41,6 +41,8 @@ const styles = StyleSheet.create({
   card: {
     flexDirection: 'row',
     alignItems: 'center',
+    justifyContent: 'center',
+    paddingHorizontal: 20, 
     backgroundColor: '#fff',
     borderRadius: 10,
     padding: 10,

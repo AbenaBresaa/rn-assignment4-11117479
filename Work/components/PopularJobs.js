@@ -8,7 +8,7 @@ export const popularJobs = [
     salary: '$96,000/y',
     style: {
       containerStyle: {
-        width: '100%',
+       
         height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
@@ -17,8 +17,8 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 0,
         marginBottom: 10,
+        
       },
       logoStyle: {
         width: 40,
@@ -51,7 +51,7 @@ export const popularJobs = [
     salary: '$84,000/y',
     style: {
       containerStyle: {
-        width: '100%',
+        
         height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
@@ -60,7 +60,7 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 0,
+        
         marginBottom: 10,
       },
       logoStyle: {
@@ -94,7 +94,7 @@ export const popularJobs = [
     salary: '$60,000/y',
     style: {
       containerStyle: {
-        width: '100%',
+        
         height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
@@ -103,7 +103,7 @@ export const popularJobs = [
         shadowOpacity: 0.1,
         shadowRadius: 8,
         elevation: 3,
-        marginRight: 0,
+        
         marginBottom: 10,
       },
       logoStyle: {
@@ -137,7 +137,7 @@ export const popularJobs = [
     salary: '$85,000/y',
     style: {
       containerStyle: {
-        width: '100%',
+        
         height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
@@ -174,13 +174,15 @@ export const popularJobs = [
     }
   },
   { 
-    company: 'Harvard', 
-    title: 'IT Support Specialist', 
-    location: 'Philadelphia, PA', 
-    salary: '$55,000/y',
-    style: {
+    title: 'Professor',
+    company: 'Harvard',
+    location: 'Massachusetts, USA',
+    salary: '$8500',
+    fulltime: 'Fulltime',
+    logo: 'Harvard',
+    style:{
       containerStyle: {
-        width: '100%',
+        
         height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
@@ -223,7 +225,7 @@ export const popularJobs = [
     salary: '$1,000/y',
     style: {
       containerStyle: {
-        width: '100%',
+        
         height: 140,
         borderRadius: 10,
         backgroundColor: '#F5F5DC',
@@ -266,7 +268,7 @@ export const popularJobs = [
     salary: '$100,000/y',
     style: {
         containerStyle: {
-          width: '100%',
+         
           height: 140,
           borderRadius: 10,
           backgroundColor: '#F5F5DC',
@@ -276,7 +278,7 @@ export const popularJobs = [
           shadowRadius: 8,
           elevation: 3,
           marginRight: 0,
-          marginBottom: 10,
+          marginBottom: 40,
         },
       logoStyle: {
         width: 40,

@@ -86,18 +86,17 @@ const styles = StyleSheet.create({
   subheader: {
     color: "#0D0D26",
     fontSize: 28,
-    fontWeight: '600',
+    fontWeight: 'bold',
     marginBottom: 10,
   },
   subhead: {
       opacity: 0.4,
       fontSize:14,
-      fontWeight:'400',
-      fontSize: 'Regular/14px',
+      fontWeight: 'bold',
       lineHeight: 22.4,
-      width:'170px',
-      height:'22px',
-      letterSpacing:'-1%',
+      width: 170,
+      height: 22,
+      letterSpacing: 1.2,
     },  
   placeholder: {
     fontSize: 20,
@@ -119,12 +118,11 @@ const styles = StyleSheet.create({
     marginVertical: 10,
   },
  last:{
-    fontWeight: 400,
+    
     fontSize: 13,
-    color:' #AFB0B6',
     marginHorizontal: 20,
     color:'#0D0D26',
-    opacity:'40%',
+    opacity: 0.4,
  }, 
   footer: {
     flexDirection: 'row',
