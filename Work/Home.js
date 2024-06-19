@@ -2,13 +2,15 @@ import React from 'react';
 import { View, StyleSheet, Text, Image, TextInput, ScrollView } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons'; 
 import JobCard from './components/JobCard';
-import { featuredJobs } from './components/FeaturedJobs';
-import { popularJobs } from './components/PopularJobs';
+import { featuredJobs } from './components/FeaturedJobs'; 
+import { popularJobs } from './components/PopularJobs'; 
 
 const Home = ({ route }) => {
   const { userName, userEmail } = route.params;
 
   const Lady = require('./assets/lady.jpeg');
+
+  
 
   return (
     <ScrollView style={styles.container}>
