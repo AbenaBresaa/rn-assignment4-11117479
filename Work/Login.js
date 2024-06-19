@@ -21,7 +21,7 @@ const Login = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <View style={styles.headerContainer}>
-        <Text style={styles.header}>Jobizz</Text>
+        <Text style={styles.header}>Abena</Text>
         <Text style={styles.subheader}>Welcome Back 👋</Text>
         <Text style={styles.subhead}>Let's log in Apply to jobs!</Text>
       </View>
@@ -56,8 +56,8 @@ const Login = ({ navigation }) => {
        <Image style={styles.icon} source={Facebook}/>
        </View>
        <View style={styles.registerContainer}>
-          <Text style={{ color:'#0D0D26', opacity:'40%' }}>Haven't an account? </Text>
-          <Text style={{ color: '#356899' }}> Register</Text>
+          <Text style={styles.registerText}>Haven't an account? </Text>
+          <Text style={styles.registerLink}> Register</Text>
         </View>
       </View>
     </View>
@@ -87,14 +87,14 @@ const styles = StyleSheet.create({
     color: "#0D0D26",
     fontSize: 28,
     fontWeight: '600',
-    marginBottom: 15,
+    marginBottom: 10,
   },
   subhead: {
-      opacity:'40%',
-      fontSize:'14px',
+      opacity: 0.4,
+      fontSize:14,
       fontWeight:'400',
       fontSize: 'Regular/14px',
-      lineHeight:'22.4px',
+      lineHeight: 22.4,
       width:'170px',
       height:'22px',
       letterSpacing:'-1%',
@@ -150,6 +150,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     marginTop: 20,
+  },
+  registerText: {
+    color: '#0D0D26',
+    opacity: 0.4,
+  },
+  registerLink: {
+    color: '#356899',
   },
 });
 
